@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  blogapp-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-18T12:10:52.550954268+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6c33e9303ae5a13b44527c2492de047291eb2d33b16b8dc5d68eb1a0e8640007
+    name: blogapp-chart
+    type: application
+    urls:
+    - blogapp-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-18T12:10:52.550373406+05:30"
